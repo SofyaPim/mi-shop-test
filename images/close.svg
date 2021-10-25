@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 427 427" width="427" height="427">
+	<title>004-cancel</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<path id="Shape 1" class="shp0" d="M304.38 154.93L274.07 124.62L214.5 184.4L154.93 124.62L124.62 154.93L184.4 214.5L124.62 274.07L154.93 304.38L214.5 244.6L274.07 304.38L304.38 274.07L244.6 214.5L304.38 154.93Z" />
+</svg>
