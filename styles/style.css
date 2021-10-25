@@ -241,7 +241,7 @@ table {
 }
 
 .popup .form-wrap .form .select::after {
-  content: url("/images/select-arrow.png");
+  content: url("../images/select-arrow.png");
   position: absolute;
   top: 40%;
   right: 16px;
@@ -354,7 +354,7 @@ table {
 }
 
 .wrapper .main {
-  background: url("/images/main.jpg");
+  background: url("../images/main.jpg");
   background-size: cover;
   padding-bottom: 130px;
   background-position: center center;
@@ -494,7 +494,7 @@ table {
 
 .wrapper .table-sizes {
   position: relative;
-  background: url("/images/table-bg-texture.jpg");
+  background: url("../images/table-bg-texture.jpg");
   margin-top: -24px;
   padding-bottom: 48px;
   display: -webkit-box;
@@ -874,7 +874,7 @@ table {
 
 @media all and (max-width: 962px) {
   .wrapper .main {
-    background-image: url(/images/main-940.jpg);
+    background-image: url("../images/main-940.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 80px;
