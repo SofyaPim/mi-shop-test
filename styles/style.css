@@ -950,7 +950,8 @@ table {
     display: none;
   }
   .wrapper .table-sizes td {
-    width: 50px;
+    width: 30px;
+    font-size: 11px;
   }
   .wrapper .stages-wrap.circles {
     display: none;
